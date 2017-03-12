@@ -27,7 +27,7 @@
               <strong>Ave Maria University</strong><br>
               5050 Ave Maria Blvd, Ave Maria, FL 34142
             </p>
-            <a href="https://www.google.com/maps/place/5050 Ave Maria Blvd, Ave Maria, FL 34142" class="button">View Map</a>
+            <a href="https://www.google.com/maps/place/5050 Ave Maria Blvd, Ave Maria, FL 34142" target="_blank" class="button">View Map</a>
           </div>
         </div>
         <div class="col -reception">
@@ -41,7 +41,7 @@
               6155 Towncenter Cir # 101, Naples, FL 34119<br>
               Dinner is included.
             </p>
-            <a href="https://www.google.com/maps/place/6155 Towncenter Cir # 101, Naples, FL 34119" target="_blank" class="button">View Map</a>
+            <a href="https://www.google.com/maps/place/6155 Towncenter Cir # 101, Naples, FL 34119" target="_blank" target="_blank" class="button">View Map</a>
           </div>
         </div>
       </div>
@@ -72,11 +72,11 @@
     <div class="wrap">
       <h3>Registries</h3>
       <div class="registries-list">
-        <a href="https://www.amazon.com/s/ref=nb_sb_ss_c_2_4?url=search-alias%3Dgift-cards&field-keywords=gift+card&sprefix=Gift%2Caps%2C173&crid=2CBOKPGM5JNB3">Amazon</a>
-        <a href="http://www.landsend.com/gift-cards/?cm_re=glb-_-global-_-hdr-giftcards-_-20160316-_-txt">Landsend</a>
-        <a href="https://www.walmart.com/cp/Gift-Cards/96894?povid=96894+%7C+contentZone2+%7C+2015-06-03+%7C+1+%7C+LN-Shop+Gift+Card+Global+Nav">Walmart</a>
-        <a href="https://www.joann.com/Gift-Cards">Joann</a>
-        <a href="http://www.target.com/c/gift-cards/-/N-5xsxu">Target</a>
+        <a href="https://www.amazon.com/s/ref=nb_sb_ss_c_2_4?url=search-alias%3Dgift-cards&field-keywords=gift+card&sprefix=Gift%2Caps%2C173&crid=2CBOKPGM5JNB3" target="_blank">Amazon</a>
+        <a href="http://www.landsend.com/gift-cards/?cm_re=glb-_-global-_-hdr-giftcards-_-20160316-_-txt" target="_blank">Landsend</a>
+        <a href="https://www.walmart.com/cp/Gift-Cards/96894?povid=96894+%7C+contentZone2+%7C+2015-06-03+%7C+1+%7C+LN-Shop+Gift+Card+Global+Nav" target="_blank">Walmart</a>
+        <a href="https://www.joann.com/Gift-Cards" target="_blank">Joann</a>
+        <a href="http://www.target.com/c/gift-cards/-/N-5xsxu" target="_blank">Target</a>
       </div>
     </div>
   </section>
