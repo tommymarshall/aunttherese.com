@@ -1,0 +1,51 @@
+{
+  "root": {
+    "src": "./resources",
+    "dest": "./public"
+  },
+
+  "tasks": {
+    "browserSync": {
+      "proxy": "aunttherese.dev"
+    },
+
+    "js": {
+      "src": "assets/javascripts",
+      "dest": "javascripts",
+      "entries": {
+        "app": ["./app.js"]
+      },
+      "extensions": ["js", "json"],
+      "babel": {
+        "presets": ["es2015", "stage-1"],
+        "plugins": []
+      },
+      "extractSharedJs": false
+    },
+
+    "css": {
+      "src": "assets/stylesheets",
+      "dest": "stylesheets",
+      "autoprefixer": {
+        "browsers": ["last 3 version"]
+      },
+      "sass": {
+        "indentedSyntax": true,
+        "includePaths": [
+          "./node_modules/normalize.css"
+        ]
+      },
+      "extensions": ["sass", "scss", "css"]
+    },
+
+    "images": {
+      "src": "assets/images",
+      "dest": "images",
+      "extensions": ["jpg", "png", "svg", "gif"]
+    },
+
+    "production" : {
+      "rev": false
+    }
+  }
+}
