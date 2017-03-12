@@ -7,7 +7,7 @@
     <div class="wrap">
       <div class="centered">
         <h1>
-          Therese Williams’s <em>Graduation</em>
+          Therese Williams’ <em>Graduation</em>
         </h1>
         <p class="date">May 6th, 2017</p>
       </div>
