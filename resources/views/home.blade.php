@@ -7,7 +7,7 @@
     <div class="wrap">
       <div class="centered">
         <h1>
-          Aunt Therese’s <em>Graduation</em>
+          Therese Williams’s <em>Graduation</em>
         </h1>
         <p class="date">May 6th, 2017</p>
       </div>
@@ -108,7 +108,7 @@
                 <input type="text" name="email" id="email" placeholder="">
               </div>
               <div class="form-row">
-                <label for="message">A Message to Aunt Therese</label>
+                <label for="message">A Message to Therese Williams</label>
                 <textarea name="message" id="message"></textarea>
               </div>
               <div class="form-row">
@@ -129,7 +129,7 @@
                 <input type="text" name="name" id="name">
               </div>
               <div class="form-row">
-                <label for="message">A Message to Aunt Therese</label>
+                <label for="message">A Message to Therese Williams</label>
                 <textarea name="message" id="message"></textarea>
               </div>
               <div class="form-row">
