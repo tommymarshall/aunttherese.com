@@ -15,8 +15,8 @@ Route::post('rsvp', function (Illuminate\Http\Request $request) {
 
     \Mail::send('emails.rsvp', ['request' => $answers->all()], function ($m) use ($answers) {
         $m->from('postmaster@aunttherese.com', 'aunttherese.com');
-        // $m->to('mvicinanzo90@gmail.com', 'Matty Vicinanzno');
-        $m->to('tommyjmarshall@gmail.com', 'Tommy Marshall');
+        $m->to('therese74@earthlink.net', 'Aunt Therese');
+        $m->bcc('tommyjmarshall@gmail.com', 'Tommy Marshall');
         $m->subject($answers->get('name') . ' has RSVPed!');
     });
 
