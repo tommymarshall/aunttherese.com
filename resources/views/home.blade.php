@@ -78,6 +78,9 @@
         <a href="https://www.joann.com/Gift-Cards" target="_blank">Joann</a>
         <a href="http://www.target.com/c/gift-cards/-/N-5xsxu" target="_blank">Target</a>
       </div>
+      <p>
+        Gifts can be sent to Therese at<em>3508 Islandwalk Circle, Naples, Fl 34119</em>
+      </p>
     </div>
   </section>
 
